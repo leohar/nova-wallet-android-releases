@@ -1,7 +1,7 @@
 [
     {
         "version": "5.2.0",
-        "severity": "Normal",
+        "severity": "Major",
         "time": "2022-12-01T06:46:07Z"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "version": "5.4.0",
-        "severity": "Major",
+        "severity": "Normal",
         "time": "2023-01-19T06:46:07Z"
     }
 ]
